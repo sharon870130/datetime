@@ -1,0 +1,12 @@
+{
+    "name": "akisame/datetime",
+    "authors": [
+        {
+            "name": "sharon870130",
+            "email": "sharon870130@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.37"
+    }
+}
